@@ -1,0 +1,4 @@
+.teraform
+.terraform/
+terraform.*
+.terraform.lock.hcl
